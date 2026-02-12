@@ -13,7 +13,7 @@ body {
 .background {
   width: 100%;
   height: 100%;
-  background: #f54c4c;
+  background: #FF69B4;
 }
 
 /* Checkbox */
@@ -86,7 +86,7 @@ input:checked + .slider {
   display: block;
   width: 100%;
   height: 500px;
-  background-color: #f54c4c;
+  background-color: #FF69B4;
       border-radius: 60px;
 }
 

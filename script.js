@@ -64,7 +64,7 @@ function Checked() {
       console.log("2");
       hanumanArm.style.opacity = "0";
       hand.style.display = "block";
-      proposal_text.textContent = '“Mujhe pta tha tum Yes hi bologe 😎”'
+      proposal_text.textContent = '“Shukriya ji 😎”'
       Checkbox.click();
     }, sec);
   }
